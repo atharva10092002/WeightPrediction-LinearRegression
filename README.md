@@ -19,6 +19,7 @@ pip install numpy pandas matplotlib
 - README.md: This readme file.
 ## Results
 - The repository includes visualizations of the training points and fitted models for both males and females.
+  
 ![Cost Function](cost_function.png)
 
 ![Male Model](male_model.png)
